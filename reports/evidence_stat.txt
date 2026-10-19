@@ -1,0 +1,8 @@
+  File: evidence/memdumpWin7.mem
+  Size: 1073676288	Blocks: 2097104    IO Block: 4096   regular file
+Device: 8,1	Inode: 2557263     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/    kali)   Gid: ( 1000/    kali)
+Access: 2026-10-17 12:42:19.447386737 +0100
+Modify: 2026-10-15 13:14:00.000000000 +0100
+Change: 2026-10-15 14:27:34.807058515 +0100
+ Birth: 2026-10-15 14:19:58.218574611 +0100

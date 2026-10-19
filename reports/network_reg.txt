@@ -1,0 +1,26 @@
+Legend: (S) = Stable   (V) = Volatile
+
+----------------------------
+Registry: \??\C:\Users\IEUser\ntuser.dat
+Key name: Network (S)
+Last updated: 2015-09-21 09:17:32 UTC+0000
+
+Subkeys:
+
+Values:
+----------------------------
+Registry: \??\C:\Windows\ServiceProfiles\NetworkService\NTUSER.DAT
+Key name: Network (S)
+Last updated: 2009-07-14 04:34:14 UTC+0000
+
+Subkeys:
+
+Values:
+----------------------------
+Registry: \??\C:\Windows\ServiceProfiles\LocalService\NTUSER.DAT
+Key name: Network (S)
+Last updated: 2009-07-14 04:34:14 UTC+0000
+
+Subkeys:
+
+Values:

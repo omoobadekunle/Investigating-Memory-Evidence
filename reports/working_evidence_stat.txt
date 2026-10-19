@@ -1,0 +1,8 @@
+  File: working/working_memdumpWin7.mem
+  Size: 1073676288	Blocks: 2097096    IO Block: 4096   regular file
+Device: 8,1	Inode: 2628430     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/    kali)   Gid: ( 1000/    kali)
+Access: 2026-10-17 12:44:13.974580350 +0100
+Modify: 2026-10-15 14:37:11.223366670 +0100
+Change: 2026-10-17 12:43:39.798805688 +0100
+ Birth: 2026-10-15 14:37:09.208793865 +0100
